@@ -1,0 +1,77 @@
+#slot1, #slot2, #slot3, #slot4  {
+   margin: 0% 8%;
+}
+
+#slot1 {
+    width: 4%;
+    margin: 0% 2% 0% 38%;
+}
+
+#slot2 {
+    width: 4%;
+    margin: 0% 2% 0% 0%;
+}
+
+#slot3 {
+    width: 4%;
+    margin: 0% 2% 0% 0%;
+}
+
+#slot4 {
+    width: 4%;
+    margin: 0% 0% 0% 0%;
+}
+
+#kluis {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5%;
+    width: 25%;
+    background-color: white;
+}
+
+#form1, #form2, #form3, #form4 {
+    display: block;
+    margin-left: 39%;
+    margin-right: 35%;
+    margin-top: 1%;
+    width: 30%;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+	margin: 0px;
+}
+
+body {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/GfRLKaE/videoblocks-clean-grey-background-motion_bujzrrdsz_thumbnail-full01.png");
+    background-size: cover;
+}
+  
+.left {
+    float: left;
+}
+
+h2 {
+    margin: 10px 37%;  
+}
+
+#opnieuw {
+	background-color: lightyellow;
+	border-color: black;
+	border-width: thin;
+    text-align: center;
+    display: inline-block;	
+}
+
+.submit {
+	background-color: yellow;
+	border-color: black;
+	border-width: thin; 
+}
+
+#optellen , #margin0 {
+	margin: 5px;
+}
